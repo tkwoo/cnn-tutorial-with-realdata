@@ -1,5 +1,7 @@
 # CNN tutorial for computer vision
 
+    conda install jupyter
+
     pip install -r requirements.txt
 
     jupyter-notebook ./
